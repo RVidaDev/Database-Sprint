@@ -1,3 +1,0 @@
-
-Table USUARIO criado.
-
