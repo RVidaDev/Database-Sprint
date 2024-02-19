@@ -1,0 +1,2 @@
+Nosso projeto foca na aplicação de um software/sistema de acessibilidade dentro do site da salesforce, para que a pessoa que precise de tal necessidade consiga usar o site fácilmente.
+Também, vamos reformular o chatbot para que seja mais fácil capturar leads para a Salesforce, isso com o cadastro de usuários com suas devidas informações, como: nome, email e etc.
